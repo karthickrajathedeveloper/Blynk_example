@@ -31,7 +31,7 @@ Before running any of the projects, ensure you have the following:
 
 - Arduino IDE or PlatformIO
 - ESP8266 / ESP32 / Arduino board
-- Blynk Library (`BlynkSimpleEsp8266.h`, etc.)
+- Blynk Library (`BlynkSimpleEsp32.h`,`BlynkSimpleEsp8266.h`, `BlynkSimpleEthernet.h`,etc.)
 - Blynk App installed on your mobile
 - Internet/WiFi connection
 
